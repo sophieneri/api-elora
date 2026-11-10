@@ -64,9 +64,13 @@ npm start
 - Banco: elora
 - Coleção: produtos
 
-## Testes
+## Acesso à API
 
-As rotas foram testadas utilizando o Thunder Client.
+A API Elora Cosméticos está publicada no Render.
+
+**Link da API:**
+
+https://api-elora.onrender.com/produtos
 
 ## Autora
 
